@@ -11,7 +11,10 @@
   "include": [
     "**/*.ts",
     "**/*.tsx",
+    "**/*.jsx",
+    "**/*.js",
+    "**/*.png",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/+not-found.tsx"  ]
 }
