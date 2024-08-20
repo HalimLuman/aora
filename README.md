@@ -2,6 +2,16 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## <a name="introduction">Introduction</a>
+
+Built with Expo, Aora is a video publish application created on React Native , displays latest posts with full functionality including watchable feature, fullscreen audio and animation. It also consist full functionality to upload videos and saving to your bookmark. Aora allows searching through the videos by fetching the posts according to the query that is sent to the appwrite database. The technologies used to create Aora is in the following:
+
+- Appwrite
+- Expo
+- Javascript
+- React Native
+- NativeWind
+
 ## Get started
 
 1. Install dependencies
